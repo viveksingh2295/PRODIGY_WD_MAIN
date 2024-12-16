@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    padding-top: 70px; /* Space for the fixed header */
+}
+
+section {
+    padding: 5em 1em;
+    min-height: 100vh;
+}
+
+#home {
+    background: url('https://prodigyinfotech.dev/images/banner.jpg') no-repeat center center/cover;
+    color: #fff;
+}
+
+#about, #services, #contact {
+    background: #f4f4f4;
+}
+
+.nav-link.active {
+    background-color: #575757;
+    color: #fff !important;
+}
