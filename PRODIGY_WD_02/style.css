@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#stopwatch {
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+.btn-group .btn {
+    margin: 5px;
+}
+
+#laps {
+    margin-top: 20px;
+}
+
+#laps li {
+    margin: 5px 0;
+}
